@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace _13._09._2022_Liblary
 {
-    public partial class Form1 : Form
+    public partial class AddForm : System.Windows.Forms.Form
     {
-        public Form1()
+        public AddForm()
         {
             InitializeComponent();
         }
