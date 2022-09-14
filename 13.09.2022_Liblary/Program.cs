@@ -16,7 +16,7 @@ namespace _13._09._2022_Liblary
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AddForm());
+            Application.Run(new MainForm());
         }
     }
 }
